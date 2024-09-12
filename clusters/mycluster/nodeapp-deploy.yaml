@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: eks-example
-        image: cf726/nodeapp-git:1.0.0
+        image: cf726/nodeapp-git:1.0.1
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
