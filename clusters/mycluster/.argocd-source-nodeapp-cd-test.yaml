@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - cf726/nodeapp-git:1.3.0
